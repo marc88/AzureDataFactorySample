@@ -1,0 +1,9 @@
+{
+	"name": "ADFcloudguruDP200",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1d7b766-4e7b-4d2d-b2a1-13cb433969f0",
+		"tenantId": "64992299-53a6-486f-b5ad-55e85597952b"
+	}
+}
